@@ -1,0 +1,10 @@
+{
+	"title": "$:/plugins/catplanet007/embed",
+	"description": "embed for many things",
+	"author": "catplanet007",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/catplanet007/embed",
+	"plugin-type": "plugin",
+	"list": "readme"
+}

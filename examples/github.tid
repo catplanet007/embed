@@ -1,0 +1,21 @@
+title: $:/plugins/catplanet007/embed/examples/github
+tags: embed-example
+caption: github
+
+`<<embed github xxx-id>>`
+
+<<embed github xxx-id>>
+
+<<embed github a b c d e>>
+
+<<embed github issue TiddlyWiki5 4130>>
+
+<<embed github pull TiddlyWiki5 4127>>
+
+<<embed github link TiddlyWiki5 'https://github.com/Jermolene/TiddlyWiki5/pull/4127'>>
+
+
+<div class="gh-issue">
+''[[TiddlyWiki5|https://github.com/Jermolene/TiddlyWiki5/pull/4127]]''
+{{$:/core/images/github}}
+</div>

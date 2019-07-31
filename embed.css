@@ -1,0 +1,29 @@
+/*\
+title: $:/core/modules/catplanet007/richlink/richlink.css
+tags: $:/tags/Stylesheet
+type: text/css
+\*/
+
+.gh-issue {
+    display: inline;
+    border: 1px solid lightgray;
+    padding: 0px 0px 1px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+.gh-issue a.tc-tiddlylink-external {
+    color: black;
+    text-decoration: none;
+    font-size: 80%;
+}
+
+.gh-issue:hover a.tc-tiddlylink-external {
+    color: blue;
+    text-decoration: underline;
+}
+
+.gh-issue svg {
+    width: .9em;
+    vertical-align: -.65em;
+}
